@@ -1,2 +1,2 @@
 # device_lge_flashlmdd
-Lineage21 device tree for LG V500N
+Lineage21 device tree for LM V500N
